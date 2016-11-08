@@ -16,7 +16,7 @@ RSFFiles
 │       ├── [Project Name]-[Version Info]-src_pkgs.rsf
 ```
 
-For example, consider the following example for Camel:
+For example, consider the Apache Camel project:
 
 ```
 .
